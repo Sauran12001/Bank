@@ -1,0 +1,7 @@
+General code structure:
+1. ⁠Employee menu: includes options to view users and exit.
+2. Main menu: includes options for user login, employee login, user registration and logout.
+3. Functions: functions like login_user(), login_employee(), register_user() and view_users() to manage various operations.
+Performance process:
+•⁠ ⁠The program runs in an endless loop until the user decides to exit.
+By choosing each option, the corresponding function will be called to perform the desired operation.
